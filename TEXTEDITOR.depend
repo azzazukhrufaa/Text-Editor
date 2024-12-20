@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734672998 source:c:\c++\texteditor\main.cpp
+	<iostream>
+	"texteditor.h"
+	<conio.h>
+
+1734672998 c:\c++\texteditor\texteditor.h
+	<iostream>
+
+1734674275 source:c:\c++\texteditor\texteditor.cpp
+	"texteditor.h"
+
